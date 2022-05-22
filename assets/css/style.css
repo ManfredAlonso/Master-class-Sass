@@ -1,6 +1,8 @@
-body {
-  background: #54612c;
-  color: orange;
+p {
+  color: red;
+}
+p:hover {
+  color: blue;
 }
 
 /*# sourceMappingURL=style.css.map */

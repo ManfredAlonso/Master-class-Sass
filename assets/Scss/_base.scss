@@ -1,6 +1,7 @@
-$text-color:orange;
+p{
+    color: red;
 
-body{
-    background:#54612c;
-    color: $text-color;
+    &:hover{
+        color: blue;
+    }
 }
